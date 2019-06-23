@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="http://udemyspringbootsoapproject.com/courses" 
+xmlns:tns="http://udemyspringbootsoapproject.com/courses" 
+elementFormDefault="qualified">
+<element name="GetCourseDetailsReponse">
+	<complexType>
+		<sequence>
+			<element name="courseDetails">
+				<complexType>
+					<sequence>
+						<element name="courseId" type="int"/>
+						<element name="courseName" type="string"/>
+						<element name="courseDescription" type="string"/>
+					</sequence>
+				</complexType>
+			</element>
+		</sequence>
+	</complexType>
+</element>
+</schema>

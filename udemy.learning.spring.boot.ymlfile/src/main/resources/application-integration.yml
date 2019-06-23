@@ -1,0 +1,6 @@
+
+my-message:
+    app-name: INT Configuration Properties
+    app-description: ${my-message.app-name} to test @ConfigurationProperties
+    admin-first-name: Nelson
+    admin-last-name: INT

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<getAuthorBooksResponse xmlns="http://springbootsoapbasics.com/getAuthorBooks"
+xsi:schemaLocation="http://springbootsoapbasics.com/getAuthorBooks getAuthorBooks.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<id>1</id>
+	<author>Gabriel García Márquez</author>
+	<book>‎Cem Anos de Solidão</book>
+</getAuthorBooksResponse>

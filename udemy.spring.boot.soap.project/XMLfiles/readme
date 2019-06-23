@@ -1,0 +1,20 @@
+Definition of the XML for the request and response:
+
+GetCourseDetailsRequest -> GetCourseDetailsResponse
+
+Input:
+
+courseId : 123
+
+Output:
+
+courseId: 123
+courseName: X
+courseDescription: Y
+
+
+Definition of the xsd for the request and response:
+
+it will help us validate the request and response xmls.
+
+for that, the xsd must have the same namespace as the xmls

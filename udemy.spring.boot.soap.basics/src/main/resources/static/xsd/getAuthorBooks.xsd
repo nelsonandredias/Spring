@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+ targetNamespace="http://springbootsoapbasics.com/getAuthorBooks"
+ xmlns:tns="http://springbootsoapbasics.com/getAuthorBooks"
+  elementFormDefault="qualified">
+  
+	<xs:element name="getAuthorBooksRequest">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="id" type="xs:int"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:element name="getAuthorBooksResponse">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="AuthorBooks" type="tns:AuthorBooks"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:element name="getAllAuthorBooksRequest">
+		<xs:complexType/>
+	</xs:element>
+	
+	<xs:element name="getAllAuthorBooksResponse">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="AuthorBooks" type="tns:AuthorBooks" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:element name="deleteAuthorBooksRequest">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="id" type="xs:int"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:element name="deleteAuthorBooksResponse">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="status" type="tns:status"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:simpleType name="status">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="SUCCESS"/>
+			<xs:enumeration value="FAILURE"/>
+		</xs:restriction>
+	</xs:simpleType>
+	
+	<xs:complexType name="AuthorBooks">
+			<xs:sequence>
+				<xs:element name="id" type="xs:int"/>
+				<xs:element name="author" type="xs:string"/>
+				<xs:element name="book" type="xs:string"/>
+			</xs:sequence>
+		</xs:complexType>
+	
+</xs:schema>
+

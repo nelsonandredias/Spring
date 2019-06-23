@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsReponse 
+xmlns="http://udemyspringbootsoapproject.com/courses"
+xsi:schemaLocation="http://udemyspringbootsoapproject.com/courses courseDetailsResponse.xsd"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<courseDetails>
+		<courseId>123</courseId>
+		<courseName>Spring with soap project</courseName>
+		<courseDescription>Basic of spring boot framework with soap</courseDescription>
+	</courseDetails>
+</GetCourseDetailsReponse>

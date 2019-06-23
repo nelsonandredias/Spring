@@ -1,0 +1,6 @@
+
+my-message:
+    app-name: Configuration Properties & YAML app
+    app-description: ${my-message.app-name} goal is to test @ConfigurationProperties and use YAML file values
+    admin-first-name: Nelson
+    admin-last-name: Dias

@@ -974,3 +974,886 @@
 2019-06-24 19:08:19,559 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-06-24 19:08:19,561 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-06-24 19:08:19,561 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-24 23:32:30,821 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-24 23:51:20,340 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 23:51:20,346 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-24 23:51:20,359 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-24 23:51:20,361 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 23:51:20,362 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-24 23:51:31,359 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 23:51:31,361 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-24 23:51:31,362 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-24 23:51:31,364 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 23:51:31,364 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-24 23:52:32,727 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 23:52:32,727 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-24 23:52:32,728 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-24 23:52:32,730 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 23:52:32,730 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-24 23:52:54,952 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 23:52:54,953 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-24 23:52:54,953 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-24 23:52:54,956 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 23:52:54,961 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-24 23:54:32,369 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 23:54:32,375 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-24 23:54:32,380 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-24 23:54:32,386 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 23:54:32,386 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-24 23:55:45,789 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 23:55:45,792 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-24 23:55:45,802 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-24 23:55:45,810 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 23:55:45,832 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-24 23:56:52,383 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 23:56:52,388 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-24 23:56:52,393 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-24 23:56:52,400 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-24 23:56:52,400 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:02:52,462 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:02:52,462 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:02:52,462 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:02:52,466 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:02:52,473 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:03:23,271 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:03:23,275 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:03:23,280 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:03:23,287 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:03:23,287 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:04:50,437 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:04:50,438 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:04:50,443 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:04:50,450 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:04:50,455 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:06:24,212 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:06:24,216 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:06:24,222 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:06:24,228 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:06:24,228 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:06:35,145 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:06:35,145 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:06:35,146 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:06:35,148 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:06:35,148 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:09:29,173 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:09:29,173 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:09:29,173 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:09:29,179 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:09:29,180 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:09:50,612 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:09:50,612 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:09:50,617 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:09:50,623 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:09:50,628 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:10:19,959 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:10:19,964 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:10:19,969 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:10:19,975 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:10:19,975 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:10:32,868 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:10:32,869 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:10:32,869 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:10:32,872 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:10:32,877 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:10:40,047 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:10:40,052 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:10:40,057 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:10:40,064 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:10:40,064 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:12:05,760 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:12:05,760 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:12:05,765 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:12:05,771 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:12:05,776 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:12:46,033 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:12:46,039 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:12:46,043 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:12:46,049 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:12:46,049 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:13:05,359 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:13:05,359 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:13:05,359 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:13:05,361 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:13:05,361 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:13:15,908 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:13:15,909 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:13:15,909 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:13:15,915 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:13:15,916 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:17:06,941 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: udemy.unittesting.spring.boot.episode.zero:com.java.udemy.unittesting.spring.boot.episode.zero:0.0.1-SNAPSHOT @ C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\pom.xml.
+2019-06-25 00:17:08,119 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.pom
+2019-06-25 00:17:08,406 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.pom
+2019-06-25 00:17:08,534 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.pom
+2019-06-25 00:17:08,794 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.pom
+2019-06-25 00:17:08,794 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.pom
+2019-06-25 00:17:08,913 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.pom
+2019-06-25 00:17:08,917 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.pom
+2019-06-25 00:17:09,394 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.jar
+2019-06-25 00:17:09,394 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.jar
+2019-06-25 00:17:09,622 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.jar
+2019-06-25 00:17:09,634 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.jar
+2019-06-25 00:17:09,680 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.jar
+2019-06-25 00:17:09,685 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.jar
+2019-06-25 00:17:10,228 [Worker-59] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.jar
+2019-06-25 00:17:10,338 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-all/1.8.4/mockito-all-1.8.4.jar
+2019-06-25 00:17:10,803 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:17:10,806 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:17:10,811 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:17:10,818 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:17:10,822 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:17:13,077 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:17:13,086 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-25 00:17:13,108 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:17:13,115 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:17:13,115 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:17:15,119 [Worker-60] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-06-25 00:17:15,384 [DefaultMetadataResolver-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-parent/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:15,384 [DefaultMetadataResolver-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-parent/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:15,579 [DefaultMetadataResolver-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-parent/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:15,793 [DefaultMetadataResolver-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-dependencies/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:15,815 [DefaultMetadataResolver-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-dependencies/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:15,953 [DefaultMetadataResolver-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-dependencies/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:16,144 [DefaultMetadataResolver-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-framework-bom/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:16,246 [DefaultMetadataResolver-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-framework-bom/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:16,302 [DefaultMetadataResolver-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-framework-bom/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:16,451 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-framework-bom/5.2.0.BUILD-SNAPSHOT/spring-framework-bom-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:16,610 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-framework-bom/5.2.0.BUILD-SNAPSHOT/spring-framework-bom-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:17,217 [DefaultMetadataResolver-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-maven-plugin/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:17,293 [DefaultMetadataResolver-3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-maven-plugin/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:17,387 [DefaultMetadataResolver-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-maven-plugin/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:17,704 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: udemy.unittesting.spring.boot.episode.zero:com.java.udemy.unittesting.spring.boot.episode.zero:0.0.1-SNAPSHOT @ C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\pom.xml.
+2019-06-25 00:17:17,870 [DefaultMetadataResolver-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-actuator/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:17,987 [DefaultMetadataResolver-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-actuator/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:18,030 [DefaultMetadataResolver-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-actuator/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:18,178 [DefaultMetadataResolver-5-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starters/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:18,280 [DefaultMetadataResolver-5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starters/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:18,347 [DefaultMetadataResolver-5-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starters/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:18,560 [DefaultMetadataResolver-6-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-parent/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:18,742 [DefaultMetadataResolver-6-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-parent/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:19,145 [DefaultMetadataResolver-6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-parent/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:19,386 [DefaultMetadataResolver-7-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:19,705 [DefaultMetadataResolver-7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:19,735 [DefaultMetadataResolver-7-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:19,899 [DefaultMetadataResolver-8-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:19,997 [DefaultMetadataResolver-8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:20,045 [DefaultMetadataResolver-8-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:20,200 [DefaultMetadataResolver-9-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-core/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:20,284 [DefaultMetadataResolver-9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-core/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:20,379 [DefaultMetadataResolver-9-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-core/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:20,532 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-core/5.2.0.BUILD-SNAPSHOT/spring-core-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:20,676 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-core/5.2.0.BUILD-SNAPSHOT/spring-core-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:20,854 [DefaultMetadataResolver-10-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-jcl/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:20,970 [DefaultMetadataResolver-10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-jcl/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:21,011 [DefaultMetadataResolver-10-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-jcl/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:21,153 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-jcl/5.2.0.BUILD-SNAPSHOT/spring-jcl-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:21,310 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-jcl/5.2.0.BUILD-SNAPSHOT/spring-jcl-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:21,482 [DefaultMetadataResolver-11-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-context/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:21,578 [DefaultMetadataResolver-11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-context/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:21,644 [DefaultMetadataResolver-11-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-context/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:21,829 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-context/5.2.0.BUILD-SNAPSHOT/spring-context-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:21,985 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-context/5.2.0.BUILD-SNAPSHOT/spring-context-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:22,171 [DefaultMetadataResolver-12-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-aop/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:22,262 [DefaultMetadataResolver-12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-aop/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:22,339 [DefaultMetadataResolver-12-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-aop/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:22,965 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-aop/5.2.0.BUILD-SNAPSHOT/spring-aop-5.2.0.BUILD-20190624.145428-485.pom
+2019-06-25 00:17:23,130 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-aop/5.2.0.BUILD-SNAPSHOT/spring-aop-5.2.0.BUILD-20190624.145428-485.pom
+2019-06-25 00:17:23,300 [DefaultMetadataResolver-13-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-beans/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:23,393 [DefaultMetadataResolver-13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-beans/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:23,479 [DefaultMetadataResolver-13-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-beans/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:23,638 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-beans/5.2.0.BUILD-SNAPSHOT/spring-beans-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:23,785 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-beans/5.2.0.BUILD-SNAPSHOT/spring-beans-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:23,964 [DefaultMetadataResolver-14-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-expression/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:24,042 [DefaultMetadataResolver-14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-expression/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:24,126 [DefaultMetadataResolver-14-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-expression/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:24,280 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-expression/5.2.0.BUILD-SNAPSHOT/spring-expression-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:24,450 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-expression/5.2.0.BUILD-SNAPSHOT/spring-expression-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:24,623 [DefaultMetadataResolver-15-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:24,871 [DefaultMetadataResolver-15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:24,896 [DefaultMetadataResolver-15-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:25,101 [DefaultMetadataResolver-16-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-logging/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:25,267 [DefaultMetadataResolver-16-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-logging/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:25,320 [DefaultMetadataResolver-16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-logging/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:25,527 [DefaultMetadataResolver-17-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:25,611 [DefaultMetadataResolver-17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:25,712 [DefaultMetadataResolver-17-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:25,895 [DefaultMetadataResolver-18-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-actuator/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:25,993 [DefaultMetadataResolver-18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-actuator/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:26,057 [DefaultMetadataResolver-18-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-actuator/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:26,295 [DefaultMetadataResolver-19-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-web/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:26,392 [DefaultMetadataResolver-19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-web/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:26,475 [DefaultMetadataResolver-19-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-web/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:26,633 [DefaultMetadataResolver-20-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-json/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:26,723 [DefaultMetadataResolver-20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-json/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:26,778 [DefaultMetadataResolver-20-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-json/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:26,940 [DefaultMetadataResolver-21-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-web/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:27,043 [DefaultMetadataResolver-21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-web/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:27,122 [DefaultMetadataResolver-21-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-web/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:27,279 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-web/5.2.0.BUILD-SNAPSHOT/spring-web-5.2.0.BUILD-20190624.145428-483.pom
+2019-06-25 00:17:27,439 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-web/5.2.0.BUILD-SNAPSHOT/spring-web-5.2.0.BUILD-20190624.145428-483.pom
+2019-06-25 00:17:27,625 [DefaultMetadataResolver-22-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-tomcat/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:27,715 [DefaultMetadataResolver-22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-tomcat/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:27,796 [DefaultMetadataResolver-22-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-tomcat/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:27,974 [DefaultMetadataResolver-23-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-validation/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:28,136 [DefaultMetadataResolver-23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-validation/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:28,140 [DefaultMetadataResolver-23-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-validation/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:28,347 [DefaultMetadataResolver-24-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-webmvc/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:28,440 [DefaultMetadataResolver-24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-webmvc/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:28,495 [DefaultMetadataResolver-24-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-webmvc/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:28,638 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-webmvc/5.2.0.BUILD-SNAPSHOT/spring-webmvc-5.2.0.BUILD-20190624.145428-483.pom
+2019-06-25 00:17:28,799 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-webmvc/5.2.0.BUILD-SNAPSHOT/spring-webmvc-5.2.0.BUILD-20190624.145428-483.pom
+2019-06-25 00:17:28,956 [DefaultMetadataResolver-25-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-web-services/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:29,057 [DefaultMetadataResolver-25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-web-services/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:29,133 [DefaultMetadataResolver-25-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-web-services/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:29,323 [DefaultMetadataResolver-26-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-oxm/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:29,409 [DefaultMetadataResolver-26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-oxm/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:29,471 [DefaultMetadataResolver-26-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-oxm/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:29,611 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-oxm/5.2.0.BUILD-SNAPSHOT/spring-oxm-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:29,779 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-oxm/5.2.0.BUILD-SNAPSHOT/spring-oxm-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:29,993 [DefaultMetadataResolver-27-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-devtools/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:30,056 [DefaultMetadataResolver-27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-devtools/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:30,184 [DefaultMetadataResolver-27-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-devtools/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:30,346 [DefaultMetadataResolver-28-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-test/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:30,479 [DefaultMetadataResolver-28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-test/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:30,526 [DefaultMetadataResolver-28-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-test/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:30,701 [DefaultMetadataResolver-29-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-test/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:30,795 [DefaultMetadataResolver-29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-test/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:30,864 [DefaultMetadataResolver-29-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-test/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:31,021 [DefaultMetadataResolver-30-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-test-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:31,107 [DefaultMetadataResolver-30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-test-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:31,181 [DefaultMetadataResolver-30-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-test-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:31,377 [DefaultMetadataResolver-31-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-test/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:31,457 [DefaultMetadataResolver-31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-test/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:31,531 [DefaultMetadataResolver-31-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-test/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:17:31,677 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-test/5.2.0.BUILD-SNAPSHOT/spring-test-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:31,828 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-test/5.2.0.BUILD-SNAPSHOT/spring-test-5.2.0.BUILD-20190624.145428-484.pom
+2019-06-25 00:17:32,072 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-context/5.2.0.BUILD-SNAPSHOT/spring-context-5.2.0.BUILD-20190624.145428-484.jar
+2019-06-25 00:17:32,693 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-context/5.2.0.BUILD-SNAPSHOT/spring-context-5.2.0.BUILD-20190624.145428-484.jar
+2019-06-25 00:17:32,830 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-web/5.2.0.BUILD-SNAPSHOT/spring-web-5.2.0.BUILD-20190624.145428-483.jar
+2019-06-25 00:17:33,476 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-web/5.2.0.BUILD-SNAPSHOT/spring-web-5.2.0.BUILD-20190624.145428-483.jar
+2019-06-25 00:17:33,617 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-beans/5.2.0.BUILD-SNAPSHOT/spring-beans-5.2.0.BUILD-20190624.145428-484.jar
+2019-06-25 00:17:34,174 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-beans/5.2.0.BUILD-SNAPSHOT/spring-beans-5.2.0.BUILD-20190624.145428-484.jar
+2019-06-25 00:17:34,314 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-webmvc/5.2.0.BUILD-SNAPSHOT/spring-webmvc-5.2.0.BUILD-20190624.145428-483.jar
+2019-06-25 00:17:34,996 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-webmvc/5.2.0.BUILD-SNAPSHOT/spring-webmvc-5.2.0.BUILD-20190624.145428-483.jar
+2019-06-25 00:17:35,134 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-aop/5.2.0.BUILD-SNAPSHOT/spring-aop-5.2.0.BUILD-20190624.145428-485.jar
+2019-06-25 00:17:35,457 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-aop/5.2.0.BUILD-SNAPSHOT/spring-aop-5.2.0.BUILD-20190624.145428-485.jar
+2019-06-25 00:17:35,602 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-expression/5.2.0.BUILD-SNAPSHOT/spring-expression-5.2.0.BUILD-20190624.145428-484.jar
+2019-06-25 00:17:36,494 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-expression/5.2.0.BUILD-SNAPSHOT/spring-expression-5.2.0.BUILD-20190624.145428-484.jar
+2019-06-25 00:17:36,637 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-oxm/5.2.0.BUILD-SNAPSHOT/spring-oxm-5.2.0.BUILD-20190624.145428-484.jar
+2019-06-25 00:17:36,968 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-oxm/5.2.0.BUILD-SNAPSHOT/spring-oxm-5.2.0.BUILD-20190624.145428-484.jar
+2019-06-25 00:17:37,123 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-core/5.2.0.BUILD-SNAPSHOT/spring-core-5.2.0.BUILD-20190624.145428-484.jar
+2019-06-25 00:17:37,852 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-core/5.2.0.BUILD-SNAPSHOT/spring-core-5.2.0.BUILD-20190624.145428-484.jar
+2019-06-25 00:17:37,995 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-jcl/5.2.0.BUILD-SNAPSHOT/spring-jcl-5.2.0.BUILD-20190624.145428-484.jar
+2019-06-25 00:17:38,257 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-jcl/5.2.0.BUILD-SNAPSHOT/spring-jcl-5.2.0.BUILD-20190624.145428-484.jar
+2019-06-25 00:17:38,395 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-test/5.2.0.BUILD-SNAPSHOT/spring-test-5.2.0.BUILD-20190624.145428-484.jar
+2019-06-25 00:17:38,932 [Worker-60] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-test/5.2.0.BUILD-SNAPSHOT/spring-test-5.2.0.BUILD-20190624.145428-484.jar
+2019-06-25 00:17:40,894 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /udemy.unittesting.spring.boot.projectzero/src/main/java
+2019-06-25 00:17:40,899 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /udemy.unittesting.spring.boot.projectzero/src/main/resources
+2019-06-25 00:17:40,903 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /udemy.unittesting.spring.boot.projectzero/src/main/resources
+2019-06-25 00:17:40,904 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /udemy.unittesting.spring.boot.projectzero/src/test/java
+2019-06-25 00:17:41,127 [Worker-60] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 26 sec
+2019-06-25 00:17:42,124 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:17:42,125 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-25 00:17:42,141 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:17:42,150 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:17:42,155 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:18:14,315 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:18:14,317 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:18:14,322 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:18:14,328 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:18:14,333 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:19:21,173 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: udemy.unittesting.spring.boot.episode.zero:com.java.udemy.unittesting.spring.boot.episode.zero:0.0.1-SNAPSHOT @ C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\pom.xml.
+2019-06-25 00:19:22,729 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.pom
+2019-06-25 00:19:26,362 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.pom
+2019-06-25 00:19:26,593 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.pom
+2019-06-25 00:19:26,679 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.pom
+2019-06-25 00:19:27,082 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.pom
+2019-06-25 00:19:27,163 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.jar
+2019-06-25 00:19:27,251 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.pom
+2019-06-25 00:19:27,301 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.pom
+2019-06-25 00:19:27,389 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.jar
+2019-06-25 00:19:27,420 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.jar
+2019-06-25 00:19:27,471 [Worker-58] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.jar
+2019-06-25 00:19:27,521 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.jar
+2019-06-25 00:19:27,559 [Worker-62] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/2.1/hamcrest-core-2.1.jar
+2019-06-25 00:19:27,875 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:19:27,886 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:19:27,887 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:19:27,894 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:19:27,894 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:19:28,064 [Worker-59] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-06-25 00:19:28,294 [DefaultMetadataResolver-32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-parent/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:28,349 [DefaultMetadataResolver-32-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-parent/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:28,512 [DefaultMetadataResolver-32-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-parent/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:28,664 [DefaultMetadataResolver-33-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-dependencies/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:28,740 [DefaultMetadataResolver-33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-dependencies/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:28,830 [DefaultMetadataResolver-33-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-dependencies/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:29,047 [DefaultMetadataResolver-34-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-framework-bom/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:29,211 [DefaultMetadataResolver-34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-framework-bom/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:29,230 [DefaultMetadataResolver-34-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-framework-bom/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:29,896 [DefaultMetadataResolver-35-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-maven-plugin/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:29,960 [DefaultMetadataResolver-35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-maven-plugin/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:30,104 [DefaultMetadataResolver-35-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-maven-plugin/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:30,504 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: udemy.unittesting.spring.boot.episode.zero:com.java.udemy.unittesting.spring.boot.episode.zero:0.0.1-SNAPSHOT @ C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\pom.xml.
+2019-06-25 00:19:30,666 [DefaultMetadataResolver-36-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-actuator/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:30,770 [DefaultMetadataResolver-36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-actuator/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:30,821 [DefaultMetadataResolver-36-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-actuator/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:30,966 [DefaultMetadataResolver-37-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starters/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:31,052 [DefaultMetadataResolver-37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starters/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:31,141 [DefaultMetadataResolver-37-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starters/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:31,296 [DefaultMetadataResolver-38-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-parent/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:31,427 [DefaultMetadataResolver-38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-parent/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:31,453 [DefaultMetadataResolver-38-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-parent/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:31,650 [DefaultMetadataResolver-39-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:31,732 [DefaultMetadataResolver-39-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:31,821 [DefaultMetadataResolver-39-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:32,426 [DefaultMetadataResolver-40-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:32,426 [DefaultMetadataResolver-40-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:32,891 [DefaultMetadataResolver-40-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:33,064 [DefaultMetadataResolver-41-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-core/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:33,153 [DefaultMetadataResolver-41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-core/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:33,228 [DefaultMetadataResolver-41-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-core/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:33,397 [DefaultMetadataResolver-42-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-jcl/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:33,531 [DefaultMetadataResolver-42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-jcl/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:33,605 [DefaultMetadataResolver-42-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-jcl/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:33,768 [DefaultMetadataResolver-43-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-context/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:33,841 [DefaultMetadataResolver-43-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-context/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:33,957 [DefaultMetadataResolver-43-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-context/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:34,125 [DefaultMetadataResolver-44-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-aop/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:34,252 [DefaultMetadataResolver-44-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-aop/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:34,283 [DefaultMetadataResolver-44-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-aop/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:34,431 [DefaultMetadataResolver-45-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-beans/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:34,528 [DefaultMetadataResolver-45-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-beans/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:34,608 [DefaultMetadataResolver-45-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-beans/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:34,784 [DefaultMetadataResolver-46-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-expression/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:34,836 [DefaultMetadataResolver-46-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-expression/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:34,948 [DefaultMetadataResolver-46-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-expression/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:35,099 [DefaultMetadataResolver-47-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:35,159 [DefaultMetadataResolver-47-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:35,266 [DefaultMetadataResolver-47-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:35,448 [DefaultMetadataResolver-48-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-logging/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:35,571 [DefaultMetadataResolver-48-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-logging/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:35,597 [DefaultMetadataResolver-48-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-logging/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:35,797 [DefaultMetadataResolver-49-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:35,879 [DefaultMetadataResolver-49-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:35,956 [DefaultMetadataResolver-49-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-actuator-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:36,138 [DefaultMetadataResolver-50-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-actuator/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:36,234 [DefaultMetadataResolver-50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-actuator/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:36,295 [DefaultMetadataResolver-50-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-actuator/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:36,475 [DefaultMetadataResolver-51-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-web/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:36,606 [DefaultMetadataResolver-51-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-web/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:36,646 [DefaultMetadataResolver-51-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-web/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:36,826 [DefaultMetadataResolver-52-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-json/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:36,954 [DefaultMetadataResolver-52-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-json/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:36,971 [DefaultMetadataResolver-52-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-json/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:37,120 [DefaultMetadataResolver-53-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-web/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:37,213 [DefaultMetadataResolver-53-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-web/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:37,318 [DefaultMetadataResolver-53-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-web/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:37,510 [DefaultMetadataResolver-54-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-tomcat/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:37,609 [DefaultMetadataResolver-54-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-tomcat/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:37,661 [DefaultMetadataResolver-54-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-tomcat/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:37,839 [DefaultMetadataResolver-55-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-validation/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:37,919 [DefaultMetadataResolver-55-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-validation/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:38,009 [DefaultMetadataResolver-55-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-validation/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:38,206 [DefaultMetadataResolver-56-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-webmvc/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:38,266 [DefaultMetadataResolver-56-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-webmvc/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:38,353 [DefaultMetadataResolver-56-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-webmvc/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:38,506 [DefaultMetadataResolver-57-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-web-services/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:38,622 [DefaultMetadataResolver-57-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-web-services/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:38,672 [DefaultMetadataResolver-57-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-web-services/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:38,995 [DefaultMetadataResolver-58-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-oxm/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:39,118 [DefaultMetadataResolver-58-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-oxm/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:39,366 [DefaultMetadataResolver-58-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-oxm/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:39,552 [DefaultMetadataResolver-59-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-devtools/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:39,666 [DefaultMetadataResolver-59-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-devtools/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:39,726 [DefaultMetadataResolver-59-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-devtools/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:39,874 [DefaultMetadataResolver-60-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-test/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:40,029 [DefaultMetadataResolver-60-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-starter-test/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:40,139 [DefaultMetadataResolver-60-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-starter-test/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:40,366 [DefaultMetadataResolver-61-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-test/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:40,412 [DefaultMetadataResolver-61-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-test/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:40,531 [DefaultMetadataResolver-61-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-test/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:40,692 [DefaultMetadataResolver-62-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-test-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:40,775 [DefaultMetadataResolver-62-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/boot/spring-boot-test-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:40,835 [DefaultMetadataResolver-62-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/boot/spring-boot-test-autoconfigure/2.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:41,050 [DefaultMetadataResolver-63-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.spring.io/snapshot/org/springframework/spring-test/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:41,170 [DefaultMetadataResolver-63-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/milestone/org/springframework/spring-test/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:41,235 [DefaultMetadataResolver-63-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/snapshot/org/springframework/spring-test/5.2.0.BUILD-SNAPSHOT/maven-metadata.xml
+2019-06-25 00:19:41,547 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /udemy.unittesting.spring.boot.projectzero/src/main/java
+2019-06-25 00:19:41,548 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /udemy.unittesting.spring.boot.projectzero/src/main/resources
+2019-06-25 00:19:41,557 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /udemy.unittesting.spring.boot.projectzero/src/main/resources
+2019-06-25 00:19:41,557 [Worker-59] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /udemy.unittesting.spring.boot.projectzero/src/test/java
+2019-06-25 00:19:41,727 [Worker-59] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 13 sec
+2019-06-25 00:19:42,725 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:19:42,726 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-25 00:19:42,742 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:19:42,752 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:19:42,757 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:20:56,111 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:20:56,112 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:20:56,118 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:20:56,125 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:20:56,130 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:21:21,146 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:21:21,151 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:21:21,156 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:21:21,163 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:21:21,163 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:21:31,588 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:21:31,588 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:21:31,588 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:21:31,590 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:21:31,590 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:21:50,613 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:21:50,613 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:21:50,613 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:21:50,620 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:21:50,620 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-25 00:22:07,551 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:22:07,551 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:22:07,557 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-25 00:22:07,564 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-25 00:22:07,569 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-29 11:13:29,258 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-06-29 11:13:50,158 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 11:13:50,163 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-29 11:13:50,180 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 11:13:50,185 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 11:13:50,185 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-29 13:38:49,443 [Worker-63] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: udemy.unittesting.spring.boot.episode.zero:com.java.udemy.unittesting.spring.boot.episode.zero:0.0.1-SNAPSHOT @ C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\pom.xml.
+2019-06-29 13:38:50,696 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:38:50,697 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-29 13:38:50,699 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:38:50,702 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:38:50,702 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:38:53,384 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:38:53,390 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-29 13:38:53,393 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:38:53,396 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:38:53,403 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:39:30,779 [Worker-65] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: udemy.unittesting.spring.boot.listmocktest.basic:com.java.udemy.unittesting.spring.boot.listmocktest.basic:0.0.1-SNAPSHOT @ C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\pom.xml.
+2019-06-29 13:39:31,624 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:39:31,624 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:39:31,630 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:39:31,637 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:39:31,643 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-29 13:39:59,996 [Worker-64] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: udemy.unittesting.spring.boot.episode.zero:com.java.udemy.unittesting.spring.boot.episode.zero:0.0.1-SNAPSHOT @ C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\pom.xml.
+2019-06-29 13:40:00,565 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:40:00,571 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:40:00,576 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:40:00,578 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:40:00,583 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-29 13:40:26,646 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: udemy.unittesting.spring.boot.listmocktest.basic:com.java.udemy.unittesting.spring.boot.listmocktest.basic:0.0.1-SNAPSHOT @ C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\pom.xml.
+2019-06-29 13:40:27,418 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:40:27,418 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:40:27,424 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:40:27,435 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:40:27,442 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:40:54,069 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:40:54,075 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-29 13:40:54,084 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:40:54,091 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:40:54,091 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:40:54,528 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:40:54,528 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:40:54,528 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:40:54,530 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:40:54,531 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-29 13:43:28,250 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:43:28,250 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:43:28,250 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:43:28,259 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:43:28,259 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:43:28,276 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:43:28,276 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:43:28,282 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:43:28,283 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:43:28,284 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-29 13:44:58,524 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:44:58,531 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:44:58,531 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:44:58,542 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:44:58,542 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:46:23,124 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:46:23,124 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:46:23,125 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:46:23,127 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:46:23,135 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:47:03,265 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:47:03,270 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:47:03,276 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:47:03,283 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:47:03,283 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:47:06,518 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:47:06,518 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:47:06,523 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:47:06,530 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:47:06,535 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:49:18,135 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:49:18,140 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:49:18,145 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:49:18,152 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:49:18,152 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:49:25,299 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:49:25,299 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:49:25,299 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:49:25,301 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:49:25,301 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:50:54,387 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:50:54,387 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:50:54,387 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:50:54,396 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:50:54,397 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:51:00,672 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:51:00,672 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:51:00,678 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:51:00,686 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:51:00,694 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:51:07,341 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:51:07,348 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:51:07,355 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:51:07,363 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:51:07,363 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:51:18,788 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:51:18,788 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:51:18,788 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:51:18,789 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:51:18,794 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:51:31,887 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:51:31,892 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:51:31,897 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:51:31,903 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:51:31,903 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:51:51,087 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:51:51,088 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:51:51,096 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:51:51,103 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:51:51,109 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:52:01,205 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:52:01,211 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:52:01,216 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:52:01,222 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:52:01,222 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:52:14,643 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:52:14,643 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:52:14,643 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:52:14,644 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:52:14,644 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:52:29,409 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:52:29,409 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:52:29,410 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:52:29,417 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:52:29,417 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:52:59,638 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:52:59,639 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:52:59,646 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:52:59,654 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:52:59,659 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:55:24,284 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:55:24,290 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:55:24,295 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:55:24,301 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:55:24,301 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:55:42,073 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:55:42,074 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:55:42,074 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:55:42,076 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:55:42,081 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:56:13,711 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:56:13,716 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:56:13,722 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:56:13,728 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:56:13,729 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:57:48,456 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:57:48,456 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:57:48,461 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:57:48,467 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:57:48,473 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 13:59:27,264 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:59:27,269 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:59:27,274 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 13:59:27,280 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 13:59:27,280 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:02:31,745 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:02:31,745 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:02:31,746 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:02:31,747 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:02:31,747 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:02:40,766 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:02:40,767 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:02:40,767 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:02:40,773 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:02:40,774 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:03:28,757 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:03:28,757 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:03:28,763 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:03:28,770 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:03:28,776 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:03:55,247 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:03:55,252 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:03:55,256 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:03:55,262 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:03:55,262 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:04:21,480 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:04:21,480 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:04:21,481 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:04:21,482 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:04:21,491 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:04:36,083 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:04:36,088 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:04:36,093 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:04:36,099 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:04:36,100 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:04:53,555 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:04:53,556 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:04:53,561 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:04:53,570 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:04:53,576 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:05:02,599 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:05:02,605 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:05:02,610 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:05:02,617 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:05:02,617 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:06:14,997 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:06:14,997 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:06:14,997 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:06:14,998 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:06:14,999 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:07:49,377 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:07:49,377 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:07:49,378 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:07:49,393 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:07:49,393 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:08:32,199 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:08:32,199 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:08:32,204 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:08:32,210 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:08:32,215 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:08:34,421 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:08:34,426 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:08:34,433 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:08:34,440 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:08:34,440 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:08:55,684 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:08:55,685 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:08:55,685 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:08:55,686 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:08:55,691 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:13:23,842 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:13:23,847 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:13:23,852 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:13:23,858 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:13:23,859 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:13:41,233 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:13:41,233 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:13:41,238 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:13:41,245 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:13:41,250 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:14:02,892 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:14:02,899 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:14:02,906 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:14:02,915 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:14:02,915 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:14:53,245 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:14:53,245 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:14:53,246 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:14:53,247 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:14:53,247 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:16:42,388 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:16:42,388 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:16:42,389 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:16:42,395 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:16:42,395 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.listmocktestbasic\src\test\resources
+2019-06-29 14:33:34,016 [Worker-93] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: udemy.unittesting.spring.boot.episode.zero:com.java.udemy.unittesting.spring.boot.episode.zero:0.0.1-SNAPSHOT @ C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verificationmock.basic\pom.xml.
+2019-06-29 14:33:34,792 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:33:34,797 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-29 14:33:34,804 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:33:34,810 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:33:34,811 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verificationmock.basic\src\test\resources
+2019-06-29 14:33:36,657 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:33:36,658 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-29 14:33:36,660 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:33:36,662 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:33:36,662 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verificationmock.basic\src\test\resources
+2019-06-29 14:33:49,596 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:33:49,597 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:33:49,597 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:33:49,603 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:33:49,604 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-29 14:33:49,679 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:33:49,680 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-29 14:33:49,687 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:33:49,688 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:33:49,688 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verificationmock.basic\src\test\resources
+2019-06-29 14:34:03,404 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:34:03,409 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:34:03,409 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:34:03,415 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:34:03,415 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.projectzero\src\test\resources
+2019-06-29 14:34:03,478 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:34:03,478 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:34:03,478 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:34:03,479 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:34:03,484 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verificationmock.basic\src\test\resources
+2019-06-29 14:34:28,830 [Worker-92] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: udemy.unittesting.spring.boot.verificationmock.basic:com.java.udemy.unittesting.spring.boot.verificationmock.basic:0.0.1-SNAPSHOT @ C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verificationmock.basic\pom.xml.
+2019-06-29 14:34:29,467 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:34:29,467 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:34:29,468 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:34:29,469 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:34:29,469 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verificationmock.basic\src\test\resources
+2019-06-29 14:35:05,746 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:35:05,753 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:35:05,753 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:35:05,755 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:35:05,755 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verificationmock.basic\src\test\resources
+2019-06-29 14:36:12,908 [Worker-94] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: udemy.unittesting.spring.boot.listmocktest.basic:com.java.udemy.unittesting.spring.boot.listmocktest.basic:0.0.1-SNAPSHOT @ C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\pom.xml.
+2019-06-29 14:36:13,540 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:36:13,540 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-29 14:36:13,541 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:36:13,548 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:36:13,548 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:36:15,396 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:36:15,397 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-29 14:36:15,404 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:36:15,411 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:36:15,416 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:36:23,982 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:36:23,988 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-06-29 14:36:23,994 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:36:24,001 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:36:24,001 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:36:36,733 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:36:36,733 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:36:36,734 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:36:36,735 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:36:36,740 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:36:57,751 [Worker-94] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: udemy.unittesting.spring.boot.verification.basic:com.java.udemy.unittesting.spring.boot.verification.basic:0.0.1-SNAPSHOT @ C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\pom.xml.
+2019-06-29 14:36:58,485 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:36:58,490 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:36:58,496 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:36:58,497 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:36:58,503 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:37:29,717 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:37:29,723 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:37:29,730 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:37:29,739 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:37:29,739 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:37:46,118 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:37:46,118 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:37:46,118 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:37:46,120 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:37:46,125 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:38:45,401 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:38:45,406 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:38:45,411 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:38:45,417 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:38:45,417 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:38:49,148 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:38:49,149 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:38:49,154 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:38:49,161 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:38:49,166 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:39:04,641 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:39:04,648 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:39:04,655 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:39:04,664 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:39:04,664 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:39:56,138 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:39:56,139 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:39:56,139 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:39:56,140 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:39:56,140 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:40:22,078 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:40:22,079 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:40:22,079 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:40:22,086 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:40:22,086 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:40:42,006 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:40:42,007 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:40:42,012 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:40:42,019 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:40:42,024 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:41:31,790 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:41:31,796 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:41:31,802 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:41:31,809 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:41:31,809 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:43:16,713 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:43:16,713 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:43:16,713 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:43:16,714 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:43:16,719 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:43:25,526 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:43:25,534 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:43:25,542 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:43:25,551 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:43:25,551 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:44:08,762 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:44:08,763 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:44:08,768 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:44:08,774 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:44:08,779 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:44:24,481 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:44:24,485 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:44:24,490 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:44:24,497 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:44:24,497 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:44:41,795 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:44:41,795 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:44:41,795 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:44:41,796 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:44:41,796 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:46:12,288 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:46:12,288 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:46:12,288 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:46:12,295 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:46:12,295 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:46:54,847 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:46:54,847 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:46:54,853 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:46:54,860 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:46:54,866 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:47:42,685 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:47:42,690 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:47:42,695 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:47:42,701 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:47:42,701 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:47:57,089 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:47:57,089 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:47:57,089 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:47:57,090 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:47:57,096 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:48:07,698 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:48:07,704 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:48:07,709 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:48:07,716 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:48:07,716 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:48:24,120 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:48:24,120 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:48:24,126 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:48:24,134 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:48:24,139 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:48:27,490 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:48:27,496 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:48:27,502 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:48:27,509 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:48:27,509 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:49:44,512 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:49:44,512 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:49:44,512 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:49:44,513 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:49:44,513 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:50:07,697 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:50:07,698 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:50:07,698 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:50:07,705 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:50:07,705 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:50:39,554 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:50:39,555 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:50:39,564 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:50:39,572 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:50:39,578 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources
+2019-06-29 14:51:36,399 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:51:36,405 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:51:36,409 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-06-29 14:51:36,414 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-06-29 14:51:36,415 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\nelson.dias\Desktop\projects\spring\udemy.unittesting.spring.boot.verification.basic\src\test\resources

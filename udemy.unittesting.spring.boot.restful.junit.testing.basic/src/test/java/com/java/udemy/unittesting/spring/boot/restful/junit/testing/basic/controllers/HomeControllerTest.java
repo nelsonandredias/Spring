@@ -1,6 +1,8 @@
 package com.java.udemy.unittesting.spring.boot.restful.junit.testing.basic.controllers;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -31,7 +33,11 @@ public class HomeControllerTest {
 									.accept(MediaType.APPLICATION_JSON);
 		
 		//call URI "/home"
-		MvcResult result = mockMvc.perform(request).andReturn();
+		MvcResult result = mockMvc
+							.perform(request)
+							.andExpect(status().is(200)) // we expect from the response the status code 200
+							.andExpect(content().string("Hello World")) // we expect the content to be string "Hello World"
+							.andReturn();
 		
 		//verify the response is "Hello World"
 		assertEquals("Hello World", result.getResponse().getContentAsString());

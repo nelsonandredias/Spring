@@ -1,14 +1,22 @@
 package com.java.udemy.unittesting.spring.boot.restful.junit.testing.basic.models;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
+import javax.persistence.Transient;
+
+@Entity
 public class Item {
 
+	@Id
 	private Integer id;
 	private String name;
 	private Integer price;
 	private Integer quantity;
 	
+	@Transient  // we are saying that we do not want to save "value" in database
+	private Integer value;
 	
-	public Item() {}
+	protected Item() {}
 	
 	
 	public Item(Integer id, String name, Integer price, Integer quantity) {
@@ -19,6 +27,7 @@ public class Item {
 		this.quantity = quantity;
 	}
 	
+
 	public Integer getId() {
 		return id;
 	}
@@ -44,6 +53,13 @@ public class Item {
 		this.quantity = quantity;
 	}
 
+	public Integer getValue() {
+		return value;
+	}
+
+	public void setValue(Integer value) {
+		this.value = value;
+	}
 
 	@Override
 	public String toString() {

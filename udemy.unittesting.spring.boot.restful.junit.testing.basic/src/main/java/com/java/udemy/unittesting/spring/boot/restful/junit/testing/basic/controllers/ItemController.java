@@ -1,5 +1,7 @@
 package com.java.udemy.unittesting.spring.boot.restful.junit.testing.basic.controllers;
 
+import java.util.List;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -31,4 +33,9 @@ public class ItemController{
 		return itemBusinessServices.retrieveHardcodedItem();
 	}
 	
+	@GetMapping("all-items-from-database")
+	public List<Item> retrieveAllItems(){
+		
+		return itemBusinessServices.retrieveAllItems();
+	}
 }

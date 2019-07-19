@@ -15,7 +15,6 @@ public class ItemBusinessServicesImpl implements ItemBusinessServices{
 
 	@Autowired
 	public ItemBusinessServicesImpl(ItemRepository itemRepository) {
-		super();
 		this.itemRepository = itemRepository;
 	}
 

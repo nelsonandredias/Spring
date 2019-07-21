@@ -62,7 +62,6 @@ public class ItemControllerIT {
 		
 		
 		String actualResponse = this.testRestTemplate.getForObject(RETRIEVE_ALL_ITEMS_URL, String.class); //we expect response to be a string
-		System.out.println(actualResponse);
 		String expectedResponse = "[{\"id\":10001,\"name\":\"Item 1\",\"price\":10,\"quantity\":10,\"value\":100},{\"id\":10002,\"name\":\"Item 2\",\"price\":20,\"quantity\":20,\"value\":400},{\"id\":10003,\"name\":\"Item 3\",\"price\":30,\"quantity\":30,\"value\":900},{\"id\":10004,\"name\":\"Item 4\",\"price\":40,\"quantity\":40,\"value\":1600},{\"id\":10005,\"name\":\"Item 5\",\"price\":50,\"quantity\":50,\"value\":2500},{\"id\":10006,\"name\":\"Item 6\",\"price\":60,\"quantity\":60,\"value\":3600},{\"id\":10007,\"name\":\"Item 7\",\"price\":70,\"quantity\":70,\"value\":4900}]";
 		
 		//verify that actual response match expected response

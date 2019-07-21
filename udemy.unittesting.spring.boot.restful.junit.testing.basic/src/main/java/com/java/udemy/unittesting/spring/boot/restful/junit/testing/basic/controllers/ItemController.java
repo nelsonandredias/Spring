@@ -4,6 +4,8 @@ import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.java.udemy.unittesting.spring.boot.restful.junit.testing.basic.models.Item;
@@ -37,5 +39,11 @@ public class ItemController{
 	public List<Item> retrieveAllItems(){
 		
 		return itemBusinessServices.retrieveAllItems();
+	}
+	
+	@PostMapping("/dummy-item")
+	public void createNewItem(@RequestBody Item newItem) {
+		
+		itemBusinessServices.createNewItem(newItem);
 	}
 }

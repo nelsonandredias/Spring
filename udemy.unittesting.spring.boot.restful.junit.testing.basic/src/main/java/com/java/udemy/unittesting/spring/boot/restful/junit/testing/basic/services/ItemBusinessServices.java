@@ -10,4 +10,6 @@ public interface ItemBusinessServices {
 	
 	public List<Item> retrieveAllItems();
 	
+	public void createNewItem(Item newItem);
+	
 }

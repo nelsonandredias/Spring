@@ -40,4 +40,12 @@ public class ItemBusinessServicesImpl implements ItemBusinessServices{
 		return new Item(1, "Item 1", 10, 100); 
 	}
 	
+	// save new Item
+	public void createNewItem(Item newItem) {
+		
+		itemRepository.save(newItem);
+	
+	}
+
+	
 }

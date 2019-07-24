@@ -1,12 +1,15 @@
 package com.java.udemy.unittesting.spring.boot.restful.junit.testing.basic.controllers;
 
+import java.net.URI;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import com.java.udemy.unittesting.spring.boot.restful.junit.testing.basic.models.Item;
 import com.java.udemy.unittesting.spring.boot.restful.junit.testing.basic.services.ItemBusinessServices;
@@ -42,8 +45,18 @@ public class ItemController{
 	}
 	
 	@PostMapping("/dummy-item")
-	public void createNewItem(@RequestBody Item newItem) {
+	public ResponseEntity<Void> createNewItem(@RequestBody Item newItem) {
 		
-		itemBusinessServices.createNewItem(newItem);
+		Item createdItem = itemBusinessServices.createNewItem(newItem);
+		
+		 // Success - URI of the new resource in Response Header
+	    // Status - created
+	    // URI -> /dummy-item/{newItemId}
+	    // createdItem.getId()
+	    URI location = ServletUriComponentsBuilder.fromCurrentRequest().path(
+	        "/{newItemId}").buildAndExpand(createdItem.getId()).toUri();
+	 
+	    // Status
+	    return ResponseEntity.created(location).build();
 	}
 }

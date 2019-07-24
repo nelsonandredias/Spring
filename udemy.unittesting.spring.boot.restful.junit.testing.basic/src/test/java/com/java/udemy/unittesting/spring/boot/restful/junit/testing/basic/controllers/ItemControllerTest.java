@@ -1,8 +1,11 @@
 package com.java.udemy.unittesting.spring.boot.restful.junit.testing.basic.controllers;
 
+import static org.hamcrest.CoreMatchers.any;
+import static org.hamcrest.CoreMatchers.containsString;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.when;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.header;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 import java.util.ArrayList;
@@ -19,8 +22,10 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.MvcResult;
 import org.springframework.test.web.servlet.RequestBuilder;
+import org.springframework.test.web.servlet.request.MockHttpServletRequestBuilder;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.java.udemy.unittesting.spring.boot.restful.junit.testing.basic.models.Item;
 import com.java.udemy.unittesting.spring.boot.restful.junit.testing.basic.services.ItemBusinessServices;
 
@@ -32,6 +37,8 @@ public class ItemControllerTest {
 	private static String DUMMY_ITEM_URL = "/dummy-item";
 	private static String ITEM_FROM_BUSINESS_SERVICE_URL = "/item-from-business-service";
 	private static String RETRIEVE_ALL_ITEMS_URL = "/all-items-from-database";
+	
+	String exampleJson = " { \"id\": 10008, \"name\": \"Item 8\", \"price\": 80, \"quantity\": 80 }";
 	
 	@Autowired
 	private MockMvc mockMvc;
@@ -116,6 +123,30 @@ public class ItemControllerTest {
 		
 	}
 	
-	//
-	
+	//test POST method "/dummy-item"
+	@Test
+	public void testCreateNewItem() throws Exception {
+		
+		Item newItem = new Item(8, "Item 8", 80, 800);
+		
+		when(itemBusinessServices.createNewItem(newItem)).thenReturn(
+				newItem);
+		
+		//call POST request "/dummy-item" with the content type request as application/json
+		RequestBuilder request = MockMvcRequestBuilders
+									.post(DUMMY_ITEM_URL)
+									.accept(MediaType.APPLICATION_JSON)
+									.content(exampleJson)
+									.contentType(MediaType.APPLICATION_JSON);
+			
+		//call URI "/dummy-item"
+		MvcResult result = mockMvc
+								.perform(request)
+								.andExpect(status().isCreated()) // we expect from the response the status code 201
+								.andExpect(header()
+										.string("location", containsString("/dummy-item/"))) 
+								.andReturn();
+		
+	}
+
 }

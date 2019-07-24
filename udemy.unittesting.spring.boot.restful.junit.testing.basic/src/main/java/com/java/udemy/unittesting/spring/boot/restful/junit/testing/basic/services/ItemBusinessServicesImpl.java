@@ -41,9 +41,11 @@ public class ItemBusinessServicesImpl implements ItemBusinessServices{
 	}
 	
 	// save new Item
-	public void createNewItem(Item newItem) {
+	public Item createNewItem(Item newItem) {
 		
-		itemRepository.save(newItem);
+		Item savedItem = itemRepository.save(newItem);
+		
+		return savedItem;
 	
 	}
 

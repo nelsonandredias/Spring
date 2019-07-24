@@ -37,7 +37,7 @@ public class ArraysCompareTest {
 		
 		int array[] = {12,23,4};
 		
-		for(int i=1;i<100000000;i++) {
+		for(int i=1;i<10000000;i++) {
 			
 			array[0]=i;
 			Arrays.sort(array);

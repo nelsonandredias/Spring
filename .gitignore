@@ -1,8 +1,8 @@
 
 # eclipse specific git ignore
 *.pydevproject
-.project
-.metadata
+.project/
+.metadata/
 bin/**
 tmp/**
 tmp/**/*
@@ -14,3 +14,4 @@ local.properties
 .classpath
 .settings/
 .loadpath
+/.recommenders/

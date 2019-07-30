@@ -8,10 +8,10 @@
 		<version>2.2.0.BUILD-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>udemy.learning.springframework.intro.springboot</groupId>
-	<artifactId>udemy.learning.springframework.intro.springboot</artifactId>
+	<groupId>udemy.learning.springframework.intro.springboot.actuator</groupId>
+	<artifactId>udemy.learning.springframework.intro.springboot.actuator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>udemy.learning.springframework.intro.springboot</name>
+	<name>udemy.learning.springframework.intro.springboot.actuator</name>
 	<description>Intro project for Spring Boot</description>
 
 	<properties>
@@ -21,7 +21,16 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
+		</dependency>
+		
+		<dependency>
+			<groupId>org.springframework.data</groupId>
+			<artifactId>spring-data-rest-hal-browser</artifactId>
 		</dependency>
 
 		<dependency>
@@ -39,6 +48,7 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-devtools</artifactId>

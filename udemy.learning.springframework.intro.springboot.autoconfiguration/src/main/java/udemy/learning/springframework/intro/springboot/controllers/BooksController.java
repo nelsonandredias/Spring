@@ -16,8 +16,7 @@ public class BooksController {
 		
 		return Arrays.asList(new Book(1,"Book1", "Author1"),
 				new Book(2,"Book2", "Author2"),
-				new Book(3,"Book3", "Author3"),
-				new Book(4,"Book4", "Author4"));
+				new Book(3,"Book3", "Author3"));
 				
 	}
 	

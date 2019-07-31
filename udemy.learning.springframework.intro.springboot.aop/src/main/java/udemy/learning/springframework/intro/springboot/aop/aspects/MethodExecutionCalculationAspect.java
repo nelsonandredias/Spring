@@ -37,4 +37,44 @@ public class MethodExecutionCalculationAspect {
 		return result;
 	}
 	
+	@Around("udemy.learning.springframework.intro.springboot.aop.configs.AspectConfiguration.trackTime1Annotation()")
+	public Object AroundTrackTime1(ProceedingJoinPoint join) throws Throwable {
+
+		//startTime before business methods are executed
+		long startTime = System.currentTimeMillis();
+		
+		//allow execution of method and store the result
+		Object result = join.proceed();
+		
+		//endTime after business methods are executed
+		long endTime = System.currentTimeMillis();
+		
+		//timeTaken
+		long timeTaken = endTime-startTime;
+		
+		LOGGER.info("TrackTime 1 {} is {} -> ", join, timeTaken);
+		
+		return result;
+	}
+	
+	@Around("udemy.learning.springframework.intro.springboot.aop.configs.AspectConfiguration.trackTime2Annotation()")
+	public Object AroundTrackTime2(ProceedingJoinPoint join) throws Throwable {
+
+		//startTime before business methods are executed
+		long startTime = System.currentTimeMillis();
+		
+		//allow execution of method and store the result
+		Object result = join.proceed();
+		
+		//endTime after business methods are executed
+		long endTime = System.currentTimeMillis();
+		
+		//timeTaken
+		long timeTaken = endTime-startTime;
+		
+		LOGGER.info("TrackTime 2 {} is {} -> ", join, timeTaken);
+		
+		return result;
+	}
+	
 }

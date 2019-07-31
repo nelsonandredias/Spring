@@ -18,7 +18,7 @@ public class LoggingTrackerBeforeAspect {
 	  execution(* PACKAGE.*.*(..))
 	 * */
 	//we are intercepting any method inside the package "udemy.learning.springframework.intro.springboot.aop.businesses"
-	@Before("execution(* udemy.learning.springframework.intro.springboot.aop.businesses.*.*(..))")
+	@Before("udemy.learning.springframework.intro.springboot.aop.configs.AspectConfiguration.dataLayerExecution()")
 	public void before(JoinPoint join) {
 		
 		//this is called the advice

@@ -25,7 +25,7 @@ public class Business2Impl implements Business2{
 	
 	public String calculateSomething() {
 		
-		LOGGER.info("calculatedSomething of Business2Impl");
+		LOGGER.info("inside of Business2Impl");
 		
 		//business logic
 		return dao2.retrieveSomething();

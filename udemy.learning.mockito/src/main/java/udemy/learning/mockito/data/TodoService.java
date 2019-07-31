@@ -8,4 +8,8 @@ public interface TodoService {
 	 * */
 	public List<String> retrieveTodos(String user);
 	
+	/*method that will delete a specific subject*/
+	public void deleteTodo(String user);
+	
+	
 }

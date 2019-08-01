@@ -15,29 +15,34 @@ import java.util.Arrays;
 import java.util.List;
 
 import org.junit.Test;
+import org.junit.runner.RunWith;
 import org.mockito.ArgumentCaptor;
+import org.mockito.Captor;
+import org.mockito.InjectMocks;
 import org.mockito.Mock;
+import org.mockito.runners.MockitoJUnitRunner;
 
 import udemy.learning.mockito.data.TodoService;
 
+@RunWith(MockitoJUnitRunner.class)
 public class TodoServiceImplCapturingArguments {
 
 	//create a mock of TodoService
 	@Mock
-	private TodoService todoService;
+	private TodoService todoServiceMock;
 	
+	//inject the mock automatically as dependency
+	@InjectMocks
+	TodoServiceImpl todoBusinessImpl;
+	
+	//declare argument capture
+	@Captor
+	ArgumentCaptor<String> stringArgumentCaptor;
 	
 	@Test
 	public void testDeleteTodosNotRelatedToSpring_UsingBDDMock_argumentCapture() {
 		
 		//1. given - setup
-		
-			//declare argument capture
-			ArgumentCaptor<String> stringArgumentCaptor = ArgumentCaptor.forClass(String.class);
-			
-			
-			//create a Mock of TodoService
-			TodoService mockTodoService = mock(TodoService.class);
 			
 			//what mock will return
 			List<String> mockData = Arrays.asList("Learn Spring Core", 
@@ -47,10 +52,7 @@ public class TodoServiceImplCapturingArguments {
 						"Learn to cook");
 	
 			//when called this method, the test will use mock data -> dynamically stub 
-			given(mockTodoService.retrieveTodos("Spring")).willReturn(mockData);
-			
-			//inject mock data in todoServiceImpl to be tested
-			TodoServiceImpl todoBusinessImpl = new TodoServiceImpl(mockTodoService);
+			given(todoServiceMock.retrieveTodos("Spring")).willReturn(mockData);
 		
 		//2. when - specific business method action	
 			
@@ -59,7 +61,7 @@ public class TodoServiceImplCapturingArguments {
 		//3. then -
 			
 			//capturing the argument that will be deleted
-			then(mockTodoService).should(times(2)).deleteTodo(stringArgumentCaptor.capture());
+			then(todoServiceMock).should(times(2)).deleteTodo(stringArgumentCaptor.capture());
 			//verify the argument deleted are "Learn to sleep" and "Learn to cook"
 			assertThat(stringArgumentCaptor.getAllValues().size(), is(2));
 	}

@@ -8,23 +8,28 @@ import java.util.Arrays;
 import java.util.List;
 
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.mockito.InjectMocks;
 import org.mockito.Mock;
+import org.mockito.runners.MockitoJUnitRunner;
 
 import udemy.learning.mockito.data.TodoService;
 import udemy.learning.mockito.data.TodoServiceStub;
 
+//@RunWith allow us to create mocks and inject it as dependencies, through @Mock and @InjectMocks, and finally make them available across testing methods
+@RunWith(MockitoJUnitRunner.class)
 public class TodoServiceImplMockTest {
 
 	//create a mock of TodoService
 	@Mock
-	private TodoService todoService;
+	private TodoService todoServiceMock;
 	
+	//inject the mock automatically as dependency
+	@InjectMocks
+	TodoServiceImpl todoBusinessImpl;
 	
 	@Test
 	public void testRetrieveTodosRelatedToSpring_countNumberOfSpringToDo() {
-		
-		//create a Mock of TodoService
-		TodoService mockTodoService = mock(TodoService.class);
 		
 		//what mock will return
 		List<String> mockData = Arrays.asList("Learn Spring Core", 
@@ -34,10 +39,7 @@ public class TodoServiceImplMockTest {
 					"Learn to cook");
 
 		//when called this method, the test will use mock data -> dynamically stub 
-		when(mockTodoService.retrieveTodos("Spring")).thenReturn(mockData);
-		
-		//inject mock data in todoServiceImpl to be tested
-		TodoServiceImpl todoBusinessImpl = new TodoServiceImpl(mockTodoService);
+		when(todoServiceMock.retrieveTodos("Spring")).thenReturn(mockData);
 		
 		List<String> filteredTodos = todoBusinessImpl.retrieveTodosRelatedToSpring("Spring");
 		
@@ -46,18 +48,12 @@ public class TodoServiceImplMockTest {
 	
 	@Test
 	public void testRetrieveTodosRelatedToSpring_EmptyToDo() {
-		
-		//create a Mock of TodoService
-		TodoService mockTodoService = mock(TodoService.class);
 
 		//what mock will return
 		List<String> mockData = Arrays.asList("");
 		
 		//when called this method, the test will use mock data -> dynamically stub 
-		when(mockTodoService.retrieveTodos("Spring")).thenReturn(mockData);
-				
-		//inject mock data in todoServiceImpl to be tested
-		TodoServiceImpl todoBusinessImpl = new TodoServiceImpl(mockTodoService);
+		when(todoServiceMock.retrieveTodos("Spring")).thenReturn(mockData);
 		
 		List<String> filteredTodos = todoBusinessImpl.retrieveTodosRelatedToSpring("Spring");
 		

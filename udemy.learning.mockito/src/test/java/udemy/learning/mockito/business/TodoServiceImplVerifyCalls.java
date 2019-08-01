@@ -14,24 +14,29 @@ import java.util.Arrays;
 import java.util.List;
 
 import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.mockito.InjectMocks;
 import org.mockito.Mock;
+import org.mockito.runners.MockitoJUnitRunner;
 
 import udemy.learning.mockito.data.TodoService;
 
+//@RunWith allow us to create mocks and inject it as dependencies, through @Mock and @InjectMocks, and finally make them available across testing methods
+@RunWith(MockitoJUnitRunner.class)
 public class TodoServiceImplVerifyCalls {
 
 	//create a mock of TodoService
 	@Mock
-	private TodoService todoService;
+	private TodoService todoServiceMock;
 	
+	//inject the mock automatically as dependency
+	@InjectMocks
+	TodoServiceImpl todoBusinessImpl;
 	
 	@Test
 	public void testDeleteTodosNotRelatedToSpring_UsingBDDMock() {
 		
 		//1. given - setup
-		
-			//create a Mock of TodoService
-			TodoService mockTodoService = mock(TodoService.class);
 			
 			//what mock will return
 			List<String> mockData = Arrays.asList("Learn Spring Core", 
@@ -41,10 +46,7 @@ public class TodoServiceImplVerifyCalls {
 						"Learn to cook");
 	
 			//when called this method, the test will use mock data -> dynamically stub 
-			given(mockTodoService.retrieveTodos("Spring")).willReturn(mockData);
-			
-			//inject mock data in todoServiceImpl to be tested
-			TodoServiceImpl todoBusinessImpl = new TodoServiceImpl(mockTodoService);
+			given(todoServiceMock.retrieveTodos("Spring")).willReturn(mockData);
 		
 		//2. when - specific business method action	
 			
@@ -53,18 +55,18 @@ public class TodoServiceImplVerifyCalls {
 		//3. then -
 			
 			//verify "learn to sleep" and "learn to cook" are deleted
-			verify(mockTodoService).deleteTodo("Learn to sleep");
-			then(mockTodoService).should().deleteTodo("Learn to sleep");
-			verify(mockTodoService).deleteTodo("Learn to cook");
-			then(mockTodoService).should().deleteTodo("Learn to cook");
+			verify(todoServiceMock).deleteTodo("Learn to sleep");
+			then(todoServiceMock).should().deleteTodo("Learn to sleep");
+			verify(todoServiceMock).deleteTodo("Learn to cook");
+			then(todoServiceMock).should().deleteTodo("Learn to cook");
 			
 			//verify "Learn Spring Core" is never deleted
-			verify(mockTodoService , never()).deleteTodo("Learn Spring Core");
-			then(mockTodoService).should(never()).deleteTodo("Learn Spring Core");
+			verify(todoServiceMock , never()).deleteTodo("Learn Spring Core");
+			then(todoServiceMock).should(never()).deleteTodo("Learn Spring Core");
 			
 			//verify "Learn to sleep" is deleted only once
-			verify(mockTodoService, times(1)).deleteTodo("Learn to sleep");
-			verify(mockTodoService, atLeastOnce()).deleteTodo("Learn to sleep");
+			verify(todoServiceMock, times(1)).deleteTodo("Learn to sleep");
+			verify(todoServiceMock, atLeastOnce()).deleteTodo("Learn to sleep");
 	}
 	
 }

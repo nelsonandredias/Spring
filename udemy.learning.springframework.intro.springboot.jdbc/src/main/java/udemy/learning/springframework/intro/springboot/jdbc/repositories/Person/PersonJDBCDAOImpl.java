@@ -1,11 +1,14 @@
 package udemy.learning.springframework.intro.springboot.jdbc.repositories.Person;
 
+import java.sql.ResultSet;
+import java.sql.SQLException;
 import java.sql.Timestamp;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.BeanPropertyRowMapper;
 import org.springframework.jdbc.core.JdbcTemplate;
+import org.springframework.jdbc.core.RowMapper;
 import org.springframework.stereotype.Component;
 
 import udemy.learning.springframework.intro.springboot.jdbc.domains.Person.Person;
@@ -23,15 +26,33 @@ public class PersonJDBCDAOImpl implements PersonDAO {
 		this.jdbcTemplate = jdbcTemplate;
 	}
 
+	
+	//create custom RowMapper to map Bean Person fields with table columns
+	class PersonRowMapper implements RowMapper<Person>{
 
+		@Override
+		public Person mapRow(ResultSet rs, int rowNum) throws SQLException {
+			Person person = new Person();
+			//map Person POJO fields with table columns
+			person.setId(rs.getInt("id"));
+			person.setName(rs.getString("name"));;
+			person.setLocation(rs.getString("location"));
+			person.setBirthDate(rs.getTimestamp("birth_date"));
+			
+			return person;
+		}
+	}
+
+	
 	@Override
 	public List<Person> findAll() {
 		
 		String query = "select * from person";
 		
 		/*when the query is executed we get a resultSet back.
-		 * That resultSet should be mapped to the person domain class via BeanPropertyRowMapper*/
-		return jdbcTemplate.query(query, new BeanPropertyRowMapper(Person.class));
+		 * That resultSet should be mapped to the person domain class via custom rowMapper "PersonRowMapper".
+		 */
+		return jdbcTemplate.query(query, new PersonRowMapper());
 	}
 
 
@@ -43,7 +64,7 @@ public class PersonJDBCDAOImpl implements PersonDAO {
 		
 		/*queryForObject should be used when we are querying for a specific Object
 		 * the ? should be replaced by a list of parameters (Object[]{}). In this case, the array just has the input id
-		 */
+		* We use BeanPropertyRowMapper when the columns of the database matches exactly with the fields of the POJO class*/
 		return jdbcTemplate.queryForObject(query, new Object[]{id}, new BeanPropertyRowMapper<>(Person.class));
 	}
 
@@ -54,6 +75,9 @@ public class PersonJDBCDAOImpl implements PersonDAO {
 		
 		String query = "select * from person where name=?";
 		
+		/*queryForObject should be used when we are querying for a specific Object
+		 * the ? should be replaced by a list of parameters (Object[]{}). In this case, the array just has the input id
+		* We use BeanPropertyRowMapper when the columns of the database matches exactly with the fields of the POJO class*/
 		return jdbcTemplate.queryForObject(query, new Object[]{name}, new BeanPropertyRowMapper<>(Person.class));
 		
 	}
@@ -65,6 +89,9 @@ public class PersonJDBCDAOImpl implements PersonDAO {
 		
 		String query = "select * from person where location=?";
 		
+		/*queryForObject should be used when we are querying for a specific Object
+		 * the ? should be replaced by a list of parameters (Object[]{}). In this case, the array just has the input id
+		* We use BeanPropertyRowMapper when the columns of the database matches exactly with the fields of the POJO class*/
 		return jdbcTemplate.queryForObject(query, new Object[]{location}, new BeanPropertyRowMapper<>(Person.class));
 		
 	}
@@ -75,6 +102,9 @@ public class PersonJDBCDAOImpl implements PersonDAO {
 		
 		String query = "select * from person where name=? and location=?";
 		
+		/*queryForObject should be used when we are querying for a specific Object
+		 * the ? should be replaced by a list of parameters (Object[]{}). In this case, the array just has the input id
+		* We use BeanPropertyRowMapper when the columns of the database matches exactly with the fields of the POJO class*/
 		return jdbcTemplate.queryForObject(query, new Object[] {name,location}, new BeanPropertyRowMapper<>(Person.class));
 	}
 

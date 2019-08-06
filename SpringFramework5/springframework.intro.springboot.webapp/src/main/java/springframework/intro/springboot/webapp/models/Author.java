@@ -28,7 +28,7 @@ public class Author {
 		
 	}
 
-	public Author(String firstName, String lastName, Set<Book> books) {
+	public Author(String firstName, String lastName) {
 		super();
 		this.firstName = firstName;
 		this.lastName = lastName;

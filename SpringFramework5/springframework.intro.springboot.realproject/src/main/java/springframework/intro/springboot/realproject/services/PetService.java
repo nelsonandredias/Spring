@@ -6,12 +6,7 @@ import springframework.intro.springboot.realproject.models.Pet;
 
 
 
-public interface PetService {
+public interface PetService extends CrudeService<Pet, Long> {
 
-	public Pet findById(Long id);
-	
-	public Pet saveNewPet(Pet newPet);
-	
-	public Set<Pet> findAllPets();
-	
+
 }

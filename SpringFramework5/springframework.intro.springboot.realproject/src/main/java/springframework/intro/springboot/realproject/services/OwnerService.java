@@ -4,13 +4,7 @@ import java.util.Set;
 
 import springframework.intro.springboot.realproject.models.Owner;
 
-public interface OwnerService {
-	
-	public Owner findById(Long id);
-	
-	public Owner saveNewOwner(Owner newOwner);
-	
-	public Set<Owner> findAllOwners();
+public interface OwnerService extends CrudeService<Owner, Long>{
 
 	public Owner findByLastName(String lastName);
 	

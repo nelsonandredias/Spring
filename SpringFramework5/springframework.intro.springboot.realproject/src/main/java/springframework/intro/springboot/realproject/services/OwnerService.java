@@ -4,7 +4,7 @@ import java.util.Set;
 
 import springframework.intro.springboot.realproject.models.Owner;
 
-public interface OwnerService extends CrudeService<Owner, Long>{
+public interface OwnerService extends CrudService<Owner, Long>{
 
 	public Owner findByLastName(String lastName);
 	

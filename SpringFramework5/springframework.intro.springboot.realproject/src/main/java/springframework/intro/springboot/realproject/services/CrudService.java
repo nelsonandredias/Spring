@@ -2,13 +2,13 @@ package springframework.intro.springboot.realproject.services;
 
 import java.util.Set;
 
-public interface CrudeService<T, ID> {
+public interface CrudService<T, ID> {
 
 	Set<T> findAll();
 	
 	T findById(ID id);
 	
-	T save(T object);
+	T save(ID id, T object);
 	
 	void delete(T object);
 

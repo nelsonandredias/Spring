@@ -6,7 +6,7 @@ import springframework.intro.springboot.realproject.models.Pet;
 
 
 
-public interface PetService extends CrudeService<Pet, Long> {
+public interface PetService extends CrudService<Pet, Long> {
 
 
 }

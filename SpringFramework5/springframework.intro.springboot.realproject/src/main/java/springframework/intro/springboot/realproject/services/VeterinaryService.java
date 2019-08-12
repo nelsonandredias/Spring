@@ -5,7 +5,7 @@ import java.util.Set;
 import springframework.intro.springboot.realproject.models.Veterinary;
 
 
-public interface VeterinaryService extends CrudeService<Veterinary, Long> {
+public interface VeterinaryService extends CrudService<Veterinary, Long> {
 
 	
 }

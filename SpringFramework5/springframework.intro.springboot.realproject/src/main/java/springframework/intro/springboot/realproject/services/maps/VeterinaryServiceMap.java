@@ -1,7 +1,11 @@
 package springframework.intro.springboot.realproject.services.maps;
 
-import springframework.intro.springboot.realproject.models.Veterinary;
+import org.springframework.stereotype.Service;
 
-public class VeterinaryServiceMap extends AbstractMapService<Veterinary, Long> {
+import springframework.intro.springboot.realproject.models.Veterinary;
+import springframework.intro.springboot.realproject.services.VeterinaryService;
+
+@Service
+public class VeterinaryServiceMap extends AbstractMapService<Veterinary, Long> implements VeterinaryService {
 
 }

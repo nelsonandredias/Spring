@@ -1,8 +1,18 @@
 package springframework.intro.springboot.realproject.services.maps;
 
-import springframework.intro.springboot.realproject.models.Owner;
+import org.springframework.stereotype.Service;
 
-public class OwnerServiceMap extends AbstractMapService<Owner, Long>  {
+import springframework.intro.springboot.realproject.models.Owner;
+import springframework.intro.springboot.realproject.services.OwnerService;
+
+@Service
+public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements OwnerService  {
+
+	@Override
+	public Owner findByLastName(String lastName) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 
 	
 

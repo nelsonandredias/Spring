@@ -1,7 +1,11 @@
 package springframework.intro.springboot.realproject.services.maps;
 
-import springframework.intro.springboot.realproject.models.Pet;
+import org.springframework.stereotype.Service;
 
-public class PetServiceMap extends AbstractMapService<Pet, Long> {
+import springframework.intro.springboot.realproject.models.Pet;
+import springframework.intro.springboot.realproject.services.PetService;
+
+@Service
+public class PetServiceMap extends AbstractMapService<Pet, Long> implements PetService{
 
 }

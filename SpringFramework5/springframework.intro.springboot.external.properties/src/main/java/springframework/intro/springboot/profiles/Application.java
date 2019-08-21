@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
 import springframework.intro.springboot.profiles.beans.FakeDataSource;
+import springframework.intro.springboot.profiles.beans.FakeJMSBroker;
 import springframework.intro.springboot.profiles.controllers.MyController;
 
 @SpringBootApplication
@@ -28,6 +29,11 @@ public class Application {
 		FakeDataSource fakeDataSource = appContext.getBean(FakeDataSource.class);
 	
 		LOGGER.info("{} Bean properties are -> " + fakeDataSource.toString());
+		
+		//get Bean "FakeJMSSource" by type
+		FakeJMSBroker fakeJmsSource = appContext.getBean(FakeJMSBroker.class);
+			
+		LOGGER.info("{} Bean properties are -> " + fakeJmsSource.toString());
 		
 	}
 

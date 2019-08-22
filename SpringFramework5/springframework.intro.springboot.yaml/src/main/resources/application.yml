@@ -1,0 +1,11 @@
+
+#Fake datasource
+
+app:
+  username: ADMIN-application.yml
+  password: PASS-application.yml
+  dburl: example.com-application.yml
+  jms:
+    username: JMS Username-application.yml
+    password: JMS Password-application.yml
+    url: example.jms-application.yml

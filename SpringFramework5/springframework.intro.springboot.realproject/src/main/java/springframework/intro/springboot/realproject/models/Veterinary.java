@@ -1,6 +1,18 @@
 package springframework.intro.springboot.realproject.models;
 
+import java.util.Set;
+
 public class Veterinary extends Person {
 
+	private Set<Speciality> specialities;
+
+	public Set<Speciality> getSpecialities() {
+		return specialities;
+	}
+
+	public void setSpecialities(Set<Speciality> specialities) {
+		this.specialities = specialities;
+	}
+	
 	
 }

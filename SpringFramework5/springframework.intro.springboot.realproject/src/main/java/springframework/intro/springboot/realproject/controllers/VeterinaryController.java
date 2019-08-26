@@ -22,7 +22,7 @@ public class VeterinaryController {
 
 
 
-	@GetMapping("/vets")
+	@GetMapping({"/vets", "/vets/index", "/vets/index.html", "/vets.html"})
 	public String listVets(Model model) {
 		
 		model.addAttribute("vets", veterinaryService.findAll());

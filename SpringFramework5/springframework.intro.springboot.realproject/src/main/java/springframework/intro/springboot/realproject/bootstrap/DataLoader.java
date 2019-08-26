@@ -7,8 +7,10 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 
 import springframework.intro.springboot.realproject.models.Owner;
+import springframework.intro.springboot.realproject.models.PetType;
 import springframework.intro.springboot.realproject.models.Veterinary;
 import springframework.intro.springboot.realproject.services.OwnerService;
+import springframework.intro.springboot.realproject.services.PetTypeService;
 import springframework.intro.springboot.realproject.services.VeterinaryService;
 
 
@@ -20,17 +22,33 @@ public class DataLoader implements CommandLineRunner {
 	
 	private final OwnerService ownerService;
 	private final VeterinaryService veterinaryService;
+	private final PetTypeService petTypeService;
 
 	@Autowired
-	public DataLoader(OwnerService ownerService, VeterinaryService veterinaryService) {
-		
+	public DataLoader(OwnerService ownerService, VeterinaryService veterinaryService, PetTypeService petTypeService) {
+		super();
 		this.ownerService = ownerService;
 		this.veterinaryService = veterinaryService;
+		this.petTypeService = petTypeService;
 	}
-
+	
 	
 	@Override
 	public void run(String... args) throws Exception {
+		
+		// PetType
+		PetType dog = new PetType();
+		dog.setName("Dog");
+		
+		PetType savedDogPetType = petTypeService.save(dog);
+		
+		PetType cat = new PetType();
+		dog.setName("Cat");
+		
+		PetType savedCatPetType = petTypeService.save(cat);
+		
+		System.out.println("Loaded PetTypes....");
+		
 		
 		// Owner
 		Owner owner1 = new Owner();
@@ -62,6 +80,8 @@ public class DataLoader implements CommandLineRunner {
 		
 		System.out.println("Loaded Veterinaries....");
 	}
+
+	
 
 	
 	

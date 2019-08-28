@@ -37,6 +37,7 @@ public class Recipe {
 	@OneToMany(mappedBy = "recipe", cascade = CascadeType.ALL)
 	private Set<Ingredient> ingredients;
 
+	
 	public Long getId() {
 		return id;
 	}
@@ -117,7 +118,14 @@ public class Recipe {
 		this.notes = notes;
 	}
 
-	
+	public Set<Ingredient> getIngredients() {
+		return ingredients;
+	}
+
+	public void setIngredients(Set<Ingredient> ingredients) {
+		this.ingredients = ingredients;
+	}
+
 	
 	
 	

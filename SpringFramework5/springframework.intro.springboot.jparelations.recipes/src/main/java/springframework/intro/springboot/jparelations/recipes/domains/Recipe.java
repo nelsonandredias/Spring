@@ -4,6 +4,8 @@ import java.util.Set;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
@@ -30,12 +32,15 @@ public class Recipe {
 	@Lob
 	private Byte[] image;
 	
-	
 	@OneToOne( cascade = CascadeType.ALL)
 	private Notes notes;
 	
 	@OneToMany(mappedBy = "recipe", cascade = CascadeType.ALL)
 	private Set<Ingredient> ingredients;
+	
+	// set the enumeration data to be persisted in database as a String
+	@Enumerated(value = EnumType.STRING)
+	private Difficulty difficulty;
 
 	
 	public Long getId() {
@@ -126,6 +131,14 @@ public class Recipe {
 		this.ingredients = ingredients;
 	}
 
+	public Difficulty getDifficulty() {
+		return difficulty;
+	}
+
+	public void setDifficulty(Difficulty difficulty) {
+		this.difficulty = difficulty;
+	}
+	
 	
 	
 	

@@ -6,38 +6,33 @@ import javax.swing.plaf.synth.SynthSeparatorUI;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
 import springframework.intro.springboot.jparelations.recipes.domains.Category;
 import springframework.intro.springboot.jparelations.recipes.domains.UnitOfMeasure;
 import springframework.intro.springboot.jparelations.recipes.repositores.CategoryRepository;
 import springframework.intro.springboot.jparelations.recipes.repositores.UnitOfMeasureRepository;
+import springframework.intro.springboot.jparelations.recipes.services.RecipeService;
 
 @Controller
 public class IndexController {
 
-	private CategoryRepository categoryRepository;
-	private UnitOfMeasureRepository unitOfMeasureRepository;
-	
-	
-	@Autowired
-	public IndexController(CategoryRepository categoryRepository, UnitOfMeasureRepository unitOfMeasureRepository) {
+
+	private final RecipeService recipeService;
+
+
+	public IndexController(RecipeService recipeService) {
 		super();
-		this.categoryRepository = categoryRepository;
-		this.unitOfMeasureRepository = unitOfMeasureRepository;
+		this.recipeService = recipeService;
 	}
 
 
 
-
 	@GetMapping({"", "/index", "/index"})
-	public String getIndexPage() {
+	public String getIndexPage(Model model) {
 		
-		Optional<Category> categoryOptional = categoryRepository.findByDescription("American");
-		Optional<UnitOfMeasure> unitOfMeasureOptional = unitOfMeasureRepository.findByDescription("Ounce");
-		
-		System.out.println("Cat ID is: " + categoryOptional.get().getId());
-		System.out.println("UOM ID is: " + unitOfMeasureOptional.get().getId());
+		model.addAttribute("recipes", recipeService.getRecipes());
 		return "index";
 	}
 	

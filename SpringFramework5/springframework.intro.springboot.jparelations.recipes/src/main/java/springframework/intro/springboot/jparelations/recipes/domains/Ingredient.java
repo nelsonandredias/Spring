@@ -1,6 +1,7 @@
 package springframework.intro.springboot.jparelations.recipes.domains;
 
 import java.math.BigDecimal;
+import java.util.Optional;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;
@@ -29,6 +30,17 @@ public class Ingredient {
 	private UnitOfMeasure unitOfMeasure;
 
 	
+	public Ingredient() {
+	}
+	
+	public Ingredient(String description, BigDecimal amount, Recipe recipe, UnitOfMeasure eachUnitOfMeasureOptional) {
+		super();
+		this.description = description;
+		this.amount = amount;
+		this.recipe = recipe;
+		this.unitOfMeasure = eachUnitOfMeasureOptional;
+	}
+
 	public Long getId() {
 		return id;
 	}

@@ -132,6 +132,17 @@ public class Recipe {
 
 	public void setNotes(Notes notes) {
 		this.notes = notes;
+		
+		// building association between Notes and Recipes 
+		notes.setRecipe(this);
+	}
+	
+	public Recipe addIngredient(Ingredient ingredient) {
+		
+		// building association between Ingredient and Recipes 
+		ingredient.setRecipe(this);
+		this.ingredients.add(ingredient);
+		return this;
 	}
 
 	public Set<Ingredient> getIngredients() {

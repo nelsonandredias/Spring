@@ -9,9 +9,12 @@ import javax.persistence.Id;
 import javax.persistence.ManyToMany;
 
 import lombok.Data;
+import lombok.EqualsAndHashCode;
 
 // through @Data annotation, Lombok handles all getters and setters for us 
 @Data
+//use @@EqualsAndHashCode to exclude possible circular reference of bidirectional references (@ManyToMany/@ManyToOne/@OneToOne )
+@EqualsAndHashCode(exclude = {"recipes"})
 @Entity
 public class Category {
 

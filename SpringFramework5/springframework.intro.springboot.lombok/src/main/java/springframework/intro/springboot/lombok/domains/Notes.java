@@ -8,8 +8,11 @@ import javax.persistence.Lob;
 import javax.persistence.OneToOne;
 
 import lombok.Data;
+import lombok.EqualsAndHashCode;
 
 @Data
+//use @@EqualsAndHashCode to exclude possible circular reference of bidirectional references (@ManyToMany/@ManyToOne/@OneToOne )
+@EqualsAndHashCode(exclude = {"recipes"})
 @Entity
 public class Notes {
 

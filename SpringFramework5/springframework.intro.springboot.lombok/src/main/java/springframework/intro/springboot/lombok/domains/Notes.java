@@ -12,7 +12,7 @@ import lombok.EqualsAndHashCode;
 
 @Data
 //use @@EqualsAndHashCode to exclude possible circular reference of bidirectional references (@ManyToMany/@ManyToOne/@OneToOne )
-@EqualsAndHashCode(exclude = {"recipes"})
+@EqualsAndHashCode(exclude = {"recipe"})
 @Entity
 public class Notes {
 

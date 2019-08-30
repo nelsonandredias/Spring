@@ -14,7 +14,7 @@ import lombok.EqualsAndHashCode;
 // through @Data annotation, Lombok handles all getters and setters for us 
 @Data
 //use @@EqualsAndHashCode to exclude possible circular reference of bidirectional references (@ManyToMany/@ManyToOne/@OneToOne )
-@EqualsAndHashCode(exclude = {"recipes"})
+@EqualsAndHashCode(exclude = {"recipe"})
 @Entity
 public class Category {
 

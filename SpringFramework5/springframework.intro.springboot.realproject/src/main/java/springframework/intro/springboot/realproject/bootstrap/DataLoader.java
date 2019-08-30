@@ -12,11 +12,13 @@ import springframework.intro.springboot.realproject.models.Pet;
 import springframework.intro.springboot.realproject.models.PetType;
 import springframework.intro.springboot.realproject.models.Speciality;
 import springframework.intro.springboot.realproject.models.Veterinary;
+import springframework.intro.springboot.realproject.models.Visit;
 import springframework.intro.springboot.realproject.services.OwnerService;
 import springframework.intro.springboot.realproject.services.PetService;
 import springframework.intro.springboot.realproject.services.PetTypeService;
 import springframework.intro.springboot.realproject.services.SpecialityService;
 import springframework.intro.springboot.realproject.services.VeterinaryService;
+import springframework.intro.springboot.realproject.services.VisitService;
 
 
 /**
@@ -29,17 +31,20 @@ public class DataLoader implements CommandLineRunner {
 	private final VeterinaryService veterinaryService;
 	private final PetTypeService petTypeService;
 	private final SpecialityService specialityService;
+	private final VisitService visitService;
 	
 	
 	@Autowired
 	public DataLoader(OwnerService ownerService, VeterinaryService veterinaryService, PetTypeService petTypeService,
-			SpecialityService specialityService) {
+			SpecialityService specialityService, VisitService visitService) {
 		super();
 		this.ownerService = ownerService;
 		this.veterinaryService = veterinaryService;
 		this.petTypeService = petTypeService;
 		this.specialityService = specialityService;
+		this.visitService = visitService;
 	}
+
 	
 	
 	@Override
@@ -128,6 +133,25 @@ public class DataLoader implements CommandLineRunner {
 		ownerService.save(owner2);
 		
 		System.out.println("Loaded Owners....");
+		
+		// Visit
+		
+		
+		Visit dogVisit = new Visit();
+		dogVisit.setPet(owner1Pet);
+		dogVisit.setDate(LocalDate.now());
+		dogVisit.setDescription("happy puppy");
+		
+		visitService.save(dogVisit);
+		
+		Visit catVisit = new Visit();
+		catVisit.setPet(owner2Pet);
+		catVisit.setDate(LocalDate.now());
+		catVisit.setDescription("Sneezy Kitty");
+		
+		visitService.save(catVisit);
+		
+		System.out.println("Loaded Visits....");
 		
 		// Veterinary
 		Veterinary vet1 = new Veterinary();

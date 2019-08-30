@@ -1,6 +1,7 @@
 package springframework.intro.springboot.realproject.services.maps;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 
 import springframework.intro.springboot.realproject.models.Owner;
@@ -10,6 +11,7 @@ import springframework.intro.springboot.realproject.services.PetService;
 import springframework.intro.springboot.realproject.services.PetTypeService;
 
 @Service
+@Profile({"default", "map"})
 public class OwnerServiceMap extends AbstractMapService<Owner, Long> implements OwnerService  {
 
 	private final PetTypeService petTypeService;

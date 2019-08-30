@@ -1,6 +1,7 @@
 package springframework.intro.springboot.realproject.services.maps;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 
 import springframework.intro.springboot.realproject.models.Speciality;
@@ -9,6 +10,7 @@ import springframework.intro.springboot.realproject.services.SpecialityService;
 import springframework.intro.springboot.realproject.services.VeterinaryService;
 
 @Service
+@Profile({"default", "map"})
 public class VeterinaryServiceMap extends AbstractMapService<Veterinary, Long> implements VeterinaryService {
 
 	private SpecialityService specialityService;

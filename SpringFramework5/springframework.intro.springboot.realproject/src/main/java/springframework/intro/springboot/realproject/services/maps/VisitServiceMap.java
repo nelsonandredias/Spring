@@ -1,6 +1,7 @@
 package springframework.intro.springboot.realproject.services.maps;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Profile;
 import org.springframework.stereotype.Service;
 
 import springframework.intro.springboot.realproject.models.Visit;
@@ -8,6 +9,7 @@ import springframework.intro.springboot.realproject.repositories.VisitRepository
 import springframework.intro.springboot.realproject.services.VisitService;
 
 @Service
+@Profile({"default", "map"})
 public class VisitServiceMap extends AbstractMapService<Visit, Long> implements VisitService {
 
 	private final VisitRepository visitRepository;

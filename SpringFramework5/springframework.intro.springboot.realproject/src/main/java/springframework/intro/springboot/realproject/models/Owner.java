@@ -26,6 +26,15 @@ import lombok.Setter;
 @Table(name = "owners")
 public class Owner extends Person {
 
+
+	public Owner(String firstName, String lastName, String address, String city, String telephone, Set<Pet> pets) {
+		super(firstName, lastName);
+		this.address = address;
+		this.city = city;
+		this.telephone = telephone;
+		this.pets = pets;
+	}
+
 	@Column(name = "address")
 	private String address;
 	

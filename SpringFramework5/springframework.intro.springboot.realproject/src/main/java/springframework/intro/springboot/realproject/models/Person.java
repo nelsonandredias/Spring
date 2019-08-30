@@ -20,10 +20,14 @@ import springframework.intro.springboot.realproject.models.Owner.OwnerBuilder;
 //start - Lombok annotations
 @Setter
 @Getter
+@AllArgsConstructor
+@NoArgsConstructor
 //end - Lombok annotations
 @MappedSuperclass
 public class Person extends BaseEntity {
 	
+	
+
 	@Column(name = "first_name")
 	private String firstName;
 	

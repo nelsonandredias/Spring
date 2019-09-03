@@ -4,8 +4,12 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.times;
 import static org.mockito.Mockito.verify;
 
+import java.util.HashSet;
+import java.util.Set;
+
 import org.junit.Before;
 import org.junit.Test;
+import org.mockito.ArgumentCaptor;
 import org.mockito.Mock;
 import org.mockito.MockitoAnnotations;
 import org.springframework.ui.Model;
@@ -14,6 +18,7 @@ import org.springframework.ui.Model;
 import static org.mockito.Mockito.*;
 
 import springframework.intro.springboot.jparelations.recipes.controllers.IndexController;
+import springframework.intro.springboot.jparelations.recipes.domains.Recipe;
 import springframework.intro.springboot.jparelations.recipes.services.RecipeService;
 
 public class IndexControllerTest {
@@ -41,13 +46,29 @@ public class IndexControllerTest {
 	@Test
 	public void getIndexPageTest_returnString() throws Exception {
 		
+		// given
+		Set<Recipe> recipes = new HashSet<>();
+		recipes.add(new Recipe());
+		recipes.add(new Recipe());
+		
+		// when
+		when(recipeService.getRecipes()).thenReturn(recipes);
+		
+		//creation captor instance to verify we capture a Set argument
+		ArgumentCaptor<Set<Recipe>> argumentCaptor = ArgumentCaptor.forClass(Set.class);
+		
 		String viewName = indexController.getIndexPage(model);
 		
+		// then
 		assertEquals("index", viewName);
-		
+
 		// verify service and model are called once
 		verify(recipeService, times(1)).getRecipes();
-		verify(model, times(1)).addAttribute(eq("recipes"), any());
+		//verify that add method capture a Set argument by using the captor instance above
+		verify(model, times(1)).addAttribute(eq("recipes"), argumentCaptor.capture());
+		
+		Set<Recipe> setInController = argumentCaptor.getValue();
+		assertEquals(2, setInController.size());
 
 
 

@@ -23,6 +23,8 @@ import springframework.intro.springboot.realproject.models.Owner.OwnerBuilder;
 //start - Lombok annotations
 @Setter
 @Getter
+@NoArgsConstructor
+@AllArgsConstructor
 //end - Lombok annotations
 @MappedSuperclass
 public class BaseEntity implements Serializable{
